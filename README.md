@@ -1,3 +1,5 @@
+
+# Video: https://youtu.be/pp2Jt1xXhsg
 # Proje 2: Veritabanı Yedekleme ve Felaketten Kurtarma Planı (Disaster Recovery)
 
 Bu çalışma, **Ağ Tabanlı Paralel Dağıtım Sistemleri** dersi kapsamında, kritik veritabanı sistemlerinde veri güvenliğini ve sürekliliğini sağlamak amacıyla geliştirilmiştir. Proje, sadece periyodik yedekleme işlemlerini değil, gerçek bir veri kaybı senaryosunda sistemin saniyeler içerisinde nasıl ayağa kaldırılacağını (Point-in-Time Recovery) uygulamalı olarak göstermektedir.
